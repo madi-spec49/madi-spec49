@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bonjour👋
 
 Étudiant en développement web full-stack à Holberton School (Laval), je me forme aux technologies front-end (HTML, CSS, JavaScript) et back-end (Python). Je travaille actuellement sur une application web/mobile combinant ces technologies.
 
